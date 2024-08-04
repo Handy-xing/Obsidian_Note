@@ -104,7 +104,7 @@
               "state": {
                 "file": "Test/0001.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,14 +143,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
     }
   },
   "active": "e794d8c989bcfb6a",
   "lastOpenFiles": [
+    "Test/0001.md",
+    "2024-08-05.md",
     "创建链接.md",
     "欢迎.md",
-    "Test/0001.md",
     "Test"
   ]
 }
