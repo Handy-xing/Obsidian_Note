@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4d88b75cff92165",
+        "id": "632ff064a01cd297",
         "type": "tabs",
         "children": [
           {
-            "id": "e794d8c989bcfb6a",
+            "id": "95233647c9cad930",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e794d8c989bcfb6a",
+  "active": "95233647c9cad930",
   "lastOpenFiles": [
-    "ai-bg.png",
     "Test/0001.md",
+    "ai-bg.png",
     "2024-08-05.md",
     "创建链接.md",
     "欢迎.md",
